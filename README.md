@@ -1,2 +1,3 @@
 # Work
-Work repo
+Work repository for Research related codes
+
